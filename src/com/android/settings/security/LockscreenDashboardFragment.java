@@ -82,11 +82,11 @@ public class LockscreenDashboardFragment extends DashboardFragment
                     KEY_LOCK_SCREEN_NOTIFICATON_WORK_PROFILE_HEADER,
                     KEY_LOCK_SCREEN_NOTIFICATON_WORK_PROFILE);
         lifecycle.addObserver(notificationController);
-        controllers.add(notificationController);*/
-        final AddUserWhenLockedPreferenceController addUserWhenLockedController =
+        controllers.add(notificationController);
+        /*final AddUserWhenLockedPreferenceController addUserWhenLockedController =
             new AddUserWhenLockedPreferenceController(context);
         lifecycle.addObserver(addUserWhenLockedController);
-        controllers.add(addUserWhenLockedController);
+        controllers.add(addUserWhenLockedController);*/
         mOwnerInfoPreferenceController =
             new OwnerInfoPreferenceController(context, this, lifecycle);
         controllers.add(mOwnerInfoPreferenceController);
