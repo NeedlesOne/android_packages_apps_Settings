@@ -284,8 +284,8 @@ public class SettingsGateway {
             StatusbarClockSettings.class.getName(),
             NetworkTraffic.class.getName(),
             EventServiceSettings.class.getName(),
-            LockscreenSettings.class.getName()
-            RunningServices.class.getName(),
+            LockscreenSettings.class.getName(),
+            RunningServices.class.getName()
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -338,7 +338,7 @@ public class SettingsGateway {
             Settings.BatteryClockSettingsActivity.class.getName(),
             Settings.NetworkTrafficSettingsActivity.class.getName(),
             Settings.EventServiceSettingsActivity.class.getName(),
-            Settings.LockscreenSettingsActivity.class.getName()
-            Settings.DevRunningServicesActivity.class.getName(),
+            Settings.LockscreenSettingsActivity.class.getName(),
+            Settings.DevRunningServicesActivity.class.getName()
     };
 }
