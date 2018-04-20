@@ -286,6 +286,7 @@ public class SettingsGateway {
             NetworkTraffic.class.getName(),
             EventServiceSettings.class.getName(),
             LockscreenSettings.class.getName(),
+            LockscreenItemSettings.class.getName(),
             RunningServices.class.getName()
     };
 
