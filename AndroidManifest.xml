@@ -3144,7 +3144,6 @@
         </activity>
 
         <!-- End of information architecture host activities -->
-
         <service
             android:name=".SettingsDumpService"
             android:exported="true"
