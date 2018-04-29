@@ -107,8 +107,4 @@
     <string name="changelog_title">Changelog</string>
     <string name="changelog_summary">View recent changes</string>
     <string name="changelog_error">Unable to load changelog</string>
-
-    <!-- Connected AP Signal Preference -->
-    <string name="connected_signal_pref_title">Signal strength: %1$s</string>
-    <string name="connected_signal_pref_summary">Tap for more info</string>
 </resources>

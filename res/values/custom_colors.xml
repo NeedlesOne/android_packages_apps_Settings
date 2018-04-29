@@ -16,7 +16,4 @@
 
 <resources>
 	<color name="omni_logo_color">#a1c729</color>
-	<color name="ic_signal_meter_poor">#F44336</color>
-	<color name="ic_signal_meter_fair">#FF9800</color>
-	<color name="ic_signal_meter_good_excellent">#4CAF50</color>
 </resources>
