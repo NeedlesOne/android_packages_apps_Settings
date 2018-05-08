@@ -23,6 +23,13 @@
                 android:summary="@string/mod_version_default"
                 android:icon="@drawable/omnirom_logo" />
 
+        <!-- Changelog -->
+        <PreferenceScreen
+                android:key="changelog"
+                android:title="@string/changelog_title"
+                android:summary="@string/changelog_summary"
+                android:fragment="com.android.settings.Changelog" />
+
         <!-- System update settings - launches activity -->
         <Preference android:key="additional_system_update_settings"
                     android:title="@string/additional_system_update_settings_list_item_title">
