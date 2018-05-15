@@ -99,4 +99,7 @@
 
     <!-- Running services -->
     <string name="background_processes_settings_title">Background processes</string>
+    
+    <!-- Phone info shortcut -->
+    <string name="device_info_title">Phone info</string>
 </resources>
