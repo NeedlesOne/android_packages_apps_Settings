@@ -20,7 +20,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="style_settings_title">Gaya</string>
-  <string name="header_category_omni">OmniGears</string>
+  <string name="header_category_omni">Dragons Den</string>
   <string name="omni_dashboard_summary">Pergaya perangkat anda</string>
   <string name="style_settings_summary">Wallpaper serta gaya lainnya</string>
   <string name="omni_device_parts">Fitur perangkat</string>

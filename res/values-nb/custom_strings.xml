@@ -20,7 +20,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="style_settings_title">Stil</string>
-  <string name="header_category_omni">OmniGears</string>
+  <string name="header_category_omni">Dragons Den</string>
   <string name="omni_device_parts">Enhetsfunksjoner</string>
   <string name="columns_menu">Kolonne Utforming</string>
   <string name="hide_summary_menu">Skjul sammendrag</string>

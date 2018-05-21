@@ -20,7 +20,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="style_settings_title">Estilo</string>
-  <string name="header_category_omni">OmniGears</string>
+  <string name="header_category_omni">Dragons Den</string>
   <string name="omni_dashboard_summary">Omnificar mi dispositivo</string>
   <string name="style_settings_summary">Fondos de pantalla y más swag</string>
   <string name="omni_device_parts">Características del dispositivo</string>

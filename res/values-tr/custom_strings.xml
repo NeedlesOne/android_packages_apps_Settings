@@ -20,7 +20,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="style_settings_title">Tarz</string>
-  <string name="header_category_omni">OmniGears</string>
+  <string name="header_category_omni">Dragons Den</string>
   <string name="omni_dashboard_summary">Cihazınızı husûsîleştirin</string>
   <string name="style_settings_summary">Duvar kâğıtları ve diğer tarzlar</string>
   <string name="omni_device_parts">Cihaz husûsîyetleri</string>
