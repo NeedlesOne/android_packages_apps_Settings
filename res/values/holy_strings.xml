@@ -107,4 +107,7 @@
     <string name="changelog_title">Changelog</string>
     <string name="changelog_summary">View recent changes</string>
     <string name="changelog_error">Unable to load changelog</string>
+
+    <!-- Notification log -->
+    <string name="notification_log_summary">Show notifications history log</string>
 </resources>
